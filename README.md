@@ -1,1 +1,2 @@
-# simple_powershell
+gcc -o out Shell.cpp -lstdc++
+./out
